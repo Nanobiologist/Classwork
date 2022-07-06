@@ -1,2 +1,2 @@
 # Scratch_BulletHell
-cs50 classwork
+week 0
